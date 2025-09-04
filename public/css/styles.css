@@ -141,7 +141,7 @@ main {
 /******* CTA Button Styles ***************/
 .cta-button {
   display: inline-block;
-  background-color: #e53e3e;
+  background-color: #A21616;
   color: white;
   text-decoration: none;
   padding: 0.75rem 1.5rem;
@@ -161,7 +161,7 @@ main {
 }
 
 .cta-button.secondary {
-  background-color: #3182ce;
+  background-color: #205688;
 }
 
 .cta-button.secondary:hover {
